@@ -1,5 +1,5 @@
 public class sujan{
-  public static void main[String()args]{
-   System.out.print("hello");
+  public static void main[String()arg]{
+   System.out.println("hello");
   }
 }
